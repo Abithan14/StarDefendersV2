@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 138b95fdd060c494d8aaf69c1f33515a
+timeCreated: 1473221174
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Accesories
+    100002: //RootNode
+    100004: Back
+    100006: Back 1
+    100008: Back 2
+    100010: Back 3
+    100012: BackPivot
+    100014: BackPivot 1
+    100016: Base
+    100018: Base 1
+    100020: Base 2
+    100022: Base 3
+    100024: Body
+    100026: Bridge
+    100028: Cockpit1
+    100030: Craft
+    100032: Engine
+    100034: Fusalage
+    100036: GravityWaveEngine
+    100038: Guns
+    100040: Hatch
+    100042: HeadRest
+    100044: HeadRest 1
+    100046: HeadRest 2
+    100048: HeadRest 3
+    100050: HeadRestPivot
+    100052: HeadRestPivot 1
+    100054: HtachFrame
+    100056: LandingGear
+    100058: Left
+    100060: LeftChair
+    100062: LeftHatch
+    100064: LeftWing
+    100066: RailGun
+    100068: Right
+    100070: RightChair
+    100072: RightHatch
+    100074: RightWing
+    100076: Spine
+    100078: Spine 1
+    100080: Spine 2
+    100082: Spine 3
+    100084: SpinePivot
+    100086: SpinePivot 1
+    100088: StiltFront
+    100090: StiltLeft
+    100092: StiltRight
+    100094: Turbine
+    100096: Wings
+    400000: Accesories
+    400002: //RootNode
+    400004: Back
+    400006: Back 1
+    400008: Back 2
+    400010: Back 3
+    400012: BackPivot
+    400014: BackPivot 1
+    400016: Base
+    400018: Base 1
+    400020: Base 2
+    400022: Base 3
+    400024: Body
+    400026: Bridge
+    400028: Cockpit1
+    400030: Craft
+    400032: Engine
+    400034: Fusalage
+    400036: GravityWaveEngine
+    400038: Guns
+    400040: Hatch
+    400042: HeadRest
+    400044: HeadRest 1
+    400046: HeadRest 2
+    400048: HeadRest 3
+    400050: HeadRestPivot
+    400052: HeadRestPivot 1
+    400054: HtachFrame
+    400056: LandingGear
+    400058: Left
+    400060: LeftChair
+    400062: LeftHatch
+    400064: LeftWing
+    400066: RailGun
+    400068: Right
+    400070: RightChair
+    400072: RightHatch
+    400074: RightWing
+    400076: Spine
+    400078: Spine 1
+    400080: Spine 2
+    400082: Spine 3
+    400084: SpinePivot
+    400086: SpinePivot 1
+    400088: StiltFront
+    400090: StiltLeft
+    400092: StiltRight
+    400094: Turbine
+    400096: Wings
+    2300000: Back 2
+    2300002: Back 3
+    2300004: BackPivot
+    2300006: BackPivot 1
+    2300008: Base 2
+    2300010: Base 3
+    2300012: Body
+    2300014: Bridge
+    2300016: GravityWaveEngine
+    2300018: HeadRest 2
+    2300020: HeadRest 3
+    2300022: HeadRestPivot
+    2300024: HeadRestPivot 1
+    2300026: HtachFrame
+    2300028: Left
+    2300030: LeftHatch
+    2300032: LeftWing
+    2300034: RailGun
+    2300036: Right
+    2300038: RightHatch
+    2300040: RightWing
+    2300042: Spine 2
+    2300044: Spine 3
+    2300046: SpinePivot
+    2300048: SpinePivot 1
+    2300050: StiltFront
+    2300052: StiltLeft
+    2300054: StiltRight
+    2300056: Turbine
+    3300000: Back 2
+    3300002: Back 3
+    3300004: BackPivot
+    3300006: BackPivot 1
+    3300008: Base 2
+    3300010: Base 3
+    3300012: Body
+    3300014: Bridge
+    3300016: GravityWaveEngine
+    3300018: HeadRest 2
+    3300020: HeadRest 3
+    3300022: HeadRestPivot
+    3300024: HeadRestPivot 1
+    3300026: HtachFrame
+    3300028: Left
+    3300030: LeftHatch
+    3300032: LeftWing
+    3300034: RailGun
+    3300036: Right
+    3300038: RightHatch
+    3300040: RightWing
+    3300042: Spine 2
+    3300044: Spine 3
+    3300046: SpinePivot
+    3300048: SpinePivot 1
+    3300050: StiltFront
+    3300052: StiltLeft
+    3300054: StiltRight
+    3300056: Turbine
+    4300000: LeftWing
+    4300002: RightWing
+    4300004: LeftHatch
+    4300006: RightHatch
+    4300008: HtachFrame
+    4300010: Body
+    4300012: GravityWaveEngine
+    4300014: Turbine
+    4300016: Left
+    4300018: RailGun
+    4300020: StiltRight
+    4300022: StiltLeft
+    4300024: StiltFront
+    4300026: Bridge
+    4300028: Base
+    4300030: BackPivot
+    4300032: Back
+    4300034: SpinePivot
+    4300036: Spine
+    4300038: HeadRestPivot
+    4300040: HeadRest
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
